@@ -1,6 +1,6 @@
-# flutter_cubit
+# social fitness app
 
-A new Flutter project.
+A new Flutter project. Built using Flutter SDK and Cubit package. 
 
 ## Getting Started
 
