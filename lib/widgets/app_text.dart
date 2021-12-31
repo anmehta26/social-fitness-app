@@ -16,7 +16,7 @@ class AppText extends StatelessWidget {
     return Text(
       text,
       style: TextStyle(
-        color:Colors.black,
+        color:color,
         fontSize: size,
       ),
     );
