@@ -2,7 +2,8 @@
 
 A new Flutter project. Built using Flutter SDK and Cubit package. 
 
-Watch these videos, demonstrating the latest progress on this project: \n
+Watch these videos, demonstrating the latest progress on this project:
+
 Welcome Page: https://www.youtube.com/watch?v=snjKFIbPU20
 Home Page: https://www.youtube.com/watch?v=xiZaQlbTpP4
 
