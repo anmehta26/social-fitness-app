@@ -33,7 +33,7 @@ class _DetailPageState extends State<DetailPage> {
                 height: 350,
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                      image: AssetImage("img/mountain.jpeg"),
+                      image: AssetImage("img/discover-one.png"),
                       fit: BoxFit.cover,
                     )
                 ),
